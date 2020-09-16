@@ -1,2 +1,2 @@
-# coinflip
-A demo with solidify, truffle 
+# CoinFlip
+Blockchain demo on Ethereum with solidify, truffle, web3.
